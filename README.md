@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Science, Coding, Python And Projects
 - 🌱 I’m currently learning Data Analytics/Science
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me @EmmaEze
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i'm open to learning
 
 <!---
 Emmanueleze089/Emmanueleze089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
